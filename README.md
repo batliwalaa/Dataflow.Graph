@@ -2,7 +2,7 @@
 
 [![NuGet](https://img.shields.io/nuget/v/DataflowGraph.svg)](https://www.nuget.org/packages/DataflowGraph)
 [![Downloads](https://img.shields.io/nuget/dt/DataflowGraph)](https://www.nuget.org/packages/DataflowGraph)
-[![License](https://github.com/batliwalaa/Dataflow.Graph/blob/main/LICENSE)](LICENSE)
+[![License](https://img.shields.io/github/license/yourusername/DataflowGraph)](https://github.com/batliwalaa/Dataflow.Graph/blob/main/LICENSE)
 
 **Declarative dependency-graph orchestration built on System.Threading.Tasks.Dataflow**
 
